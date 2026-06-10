@@ -71,8 +71,10 @@ def clean_text(text: str) -> str:
     # 2. Decode HTML entities (&amp; &nbsp; &#39; etc.)
     text = html.unescape(text)
 
-    # 3. Remove URLs
+    # 3. Remove URLs and RTF hyperlink artifacts (e.g. "a0 HYPERLINK")
     text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"\ba0\s+HYPERLINK\b.*", "", text)
+    text = re.sub(r"HYPERLINK\s+\"[^\"]*\"", "", text)
 
     # 4. Remove Reddit/forum artifacts: vote counts, share buttons, timestamps
     text = re.sub(r"\b\d+\s*(points?|comments?|votes?|upvotes?|hours? ago|days? ago|months? ago)\b", "", text, flags=re.IGNORECASE)
