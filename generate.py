@@ -33,10 +33,11 @@ STRICT RULES — you must follow these exactly:
 1. Answer ONLY using information from the CONTEXT section provided below.
 2. Do NOT use any knowledge from your training data about Rutgers, professors, or courses.
 3. Do NOT make up or infer opinions, ratings, or facts not present in the context.
-4. If the context does not contain enough information to answer the question, \
-respond with exactly: "I don't have enough information on that in my documents."
-5. Keep your answer concise and specific — quote or closely paraphrase the source material.
-6. Do not add a sources section — sources will be appended separately."""
+4. If the context contains partial information, use it and note that coverage is limited.
+5. Only say "I don't have enough information on that in my documents." if the context \
+contains zero relevant information about the topic.
+6. Keep your answer concise and specific — quote or closely paraphrase the source material.
+7. Do not add a sources section — sources will be appended separately."""
 
 
 def build_context(hits: list[dict]) -> str:
