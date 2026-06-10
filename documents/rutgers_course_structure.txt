@@ -1,0 +1,104 @@
+Computer Science Course Structure
+
+Contacts
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ulrich Kremer
+ 
+ 
+ 
+Information
+Departmental Chair
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Santosh Nagarakatte
+ 
+ 
+ 
+Information
+Undergraduate Program Director
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Undergraduate Menu
+ 
+
+Why Computer Science
+Prospective Students
+Transfer Students
+Pre-Evaluated Transfer Courses
+Learning Goals
+Major - BA Degree
+Major - BS Degree
+Minor(s)
+Courses Schedule
+Course Synopses
+Advising
+Electives
+Honors
+Academic Integrity Policy
+Introduction
+Examinations
+Programming Assignments
+Introductory Computer Science Offerings
+Computer Science Course Structure
+Admission to the Major
+Computer Science Undergraduate Program Tracks
+CS Degrees
+B.A. Degree
+Sample BA Schedule
+B.S. Degree
+Sample BS Schedule
+Minor in CS
+CS Honors Program
+Undergraduate Student Organizations
+Course Registration and Special Permission
+
+Undergraduate Quicklinks
+ 
+
+Academic Calendar
+
+Course Schedule Planner
+
+SAS Academic Advising
+
+SAS Core Curriculum
+
+University Schedule of Classes
+
+Web Registration System
+
+ 
+
+ Computer Science Course Structure 
+
+The diagram below maps out the pre-requisite structure of our regularly offered undergraduate courses for majors and minors. We hope you find it helpful in planning your degree. Pre-requisites are drawn as arrows. Courses in blue are required for the BA and BS degree in Computer Science.
+
+To avoid clutter, this diagram only includes the most commonly used information. Consult the 
+course descriptions
+ for complete information. Specifically, this diagram includes:
+
+Primary pre-requisites (it does not include certain alternatives in ECE or Math)

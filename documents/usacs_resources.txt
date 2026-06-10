@@ -1,0 +1,37 @@
+The guides presented here are adapted from guides on “Succeeding in Rutgers CS” written by Sakib Jalal (‘18). Much of the information has been updated, but some is still the same. You can find his guides
+ 
+here
+. For further reading, Vaibhav Verma (‘15) created his own set of guides. You can find his guides
+ 
+here
+.
+Background
+Initially, when you first start college, make sure you're settled in and comfortable with college life. Defining what success looks like for you and achieving your goals can be overwhelming, but college is a marathon, not a sprint. You have years to explore your interests, make life-long friends, and to learn faster than you ever have.
+The information presented in these guides is based on what we’ve found effective in our experiences in Rutgers CS. However, there is no one way to do things, and everyone has their own path. We hope these guides provide you a starting point in your time here at Rutgers, but they are by no means an end-all be all.
+Contributors
+Angela Xue (‘26)
+Jay Rana (‘26)
+Farhan Khan (‘26)
+Barghavi Gopinath (‘26)
+Martin Shen (‘27)
+Hasan Ali (‘27)
+Want to add something?
+ 
+Let us know.
+ACADEMICS
+Advice for succeeding in the classroom in Rutgers CS.
+CAREER
+Our internship guide covering all you need to know from scratch to land a tech internship. Includes resources for learning new technical skills.
+GENERAL
+Advice we wish we had when we began Rutgers CS.
+ALUMNI ADVICE
+Tips from accomplished graduates.
+LOCATIONS
+THE CSL
+The CSL (Coding & Social Lounge) is located on the second floor of the Hill Center in Room 252. Part of the Computer Science Instructional Labs, the CSL was designed to provide students their own atmosphere for collaboration and group projects.
+MELTDOWN LAB
+Right next door to the CSL, the Meltdown Lab is stocked with Linux machines and whiteboards, perfect for late night cram sessions.
+HACKERSPACE
+The Hack-R-space is located in Hill 120. The Hack-R-Space is a workshop for students to tinker and build. It offers access to an abundance of resources, including 3D printing, robotics, Oculus Rifts, and instrumental recording hardware.
+MAKERSPACE
+The Makerspace is designed for Rutgers affiliates of all experience levels to bring their ideas to life. Located near Livingston Campus, the Makerspace is a tech atelier for students to design and construct hardware.

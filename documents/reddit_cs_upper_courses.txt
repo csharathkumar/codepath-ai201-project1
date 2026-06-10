@@ -1,0 +1,99 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red39\green46\blue51;\red255\green255\blue255;\red12\green48\blue137;
+\red74\green89\blue97;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c23922\c25882;\cssrgb\c100000\c100000\c100000;\cssrgb\c3922\c26667\c60784;
+\cssrgb\c36078\c42353\c45490;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 CS336: Principles of Information and Data Management\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 General Experience\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Manageable but Disorganized
+\f1\b0 : Some students found the course manageable but disorganized, especially when taken with certain professors.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/14xcqa7/comment/jrpi9yw/"}}{\fldrslt \cf4 \strokec4 "I took 214 with Menendez in spring 2022 and 336 with Garcia the following summer. Both felt really disorganized but the assignments etc. themselves weren't terribly difficult, and I liked Menendez's lectures."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Easy with Garcia
+\f1\b0 : Miranda Garcia is often cited as an easy professor for CS336.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/14xcqa7/comment/jror4kj/"}}{\fldrslt \cf4 \strokec4 "Cs336 w Garcia is easy"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Course Material\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 SQL Focus
+\f1\b0 : The course is heavily focused on SQL, which is considered a crucial skill for software development.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/14xcqa7/comment/jsubdwp/"}}{\fldrslt \cf4 \strokec4 "Only important part of the class is SQL if your goal is software dev."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Database Normalization
+\f1\b0 : For those interested in database administration or software architecture, paying attention to database normalization is recommended.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/14xcqa7/comment/jsubdwp/"}}{\fldrslt \cf4 \strokec4 "If you're interested in DB admin or software architect work maybe pay attention to the database normalization stuff."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Projects and Assignments\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Challenging Project
+\f1\b0 : The course includes a significant project that some students found challenging.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/quwsvt/cs_336_is_not_an_easy_class/"}}{\fldrslt \cf4 \strokec4 "They just spring this long complicated hard project on you with just a few videos to help you."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls3\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lenient Grading
+\f1\b0 : Despite the difficulty, the project is often graded leniently.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/quwsvt/comment/hkvgw2m/"}}{\fldrslt \cf4 \strokec4 "They grade it very leniently."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Exams\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Midterm and Final
+\f1\b0 : The exams can be tough, but some students found them manageable by focusing on lecture slides and problem sets.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/dm2z57/comment/f51wsr0/"}}{\fldrslt \cf4 \strokec4 "Hate to be that guy but I thought it was really easy."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 CS314: Principles of Programming Languages\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 General Experience\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Coding-Heavy
+\f1\b0 : The course involves a significant amount of coding assignments.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j7p367/comment/mgysvxk/"}}{\fldrslt \cf4 \strokec4 "i'm in 314 with zhu he and its like 6 assignments and a take home final"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls5\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Useful Concepts
+\f1\b0 : The concepts taught in CS314 are considered very useful for programming in general.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/14xcqa7/comment/jrpi9yw/"}}{\fldrslt \cf4 \strokec4 "its concepts are super helpful for programming in general tbh"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Course Material\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls6\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 OCaml Focus
+\f1\b0 : The course includes assignments in OCaml, which can be a new experience for many students.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j7p367/comment/mgz4igt/"}}{\fldrslt \cf4 \strokec4 "we've only had 2 so far but both were just practicing ocaml with basic functions"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Projects and Assignments\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls7\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Manageable Assignments
+\f1\b0 : The assignments are generally considered manageable, and some students found them easy.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j7p367/comment/nb5t3x5/"}}{\fldrslt \cf4 \strokec4 "hes not a great lecturer but the assignments were very easy."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Exams\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls8\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Midterm Difficulty
+\f1\b0 : The midterm can be quite difficult, with some students feeling unprepared.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/dm2z57/cs314_midterm/"}}{\fldrslt \cf4 \strokec4 "I barely feel like I knew anything. Why does he have to keep the exams so hard?"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls8\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Average Scores
+\f1\b0 : The average score for the midterm has been notoriously low in some semesters.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/dm2z57/comment/f4z9jlg/"}}{\fldrslt \cf4 \strokec4 "Last year average was 44 lmao gl"}}\cb1 \
+}

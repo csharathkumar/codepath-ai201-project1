@@ -1,0 +1,73 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red39\green46\blue51;\red255\green255\blue255;\red12\green48\blue137;
+\red74\green89\blue97;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c23922\c25882;\cssrgb\c100000\c100000\c100000;\cssrgb\c3922\c26667\c60784;
+\cssrgb\c36078\c42353\c45490;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Recommended Computer Science Professors at Rutgers\
+\pard\pardeftab720\sa120\partightenfactor0
+\cf2 Positive Experiences\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Cowan
+\f1\b0 : Frequently praised for his teaching style and the ability to make complex topics understandable.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bxilkf/comment/kydd0vp/"}}{\fldrslt \cf4 \strokec4 "Professor Cowan is pretty great, you will learn a lot in his class."\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4i6ys4/"}}{\fldrslt \cf4 \strokec4 "Cowan is a king, Menny sucks"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Michmizos
+\f1\b0 : Known for his engaging lectures and ensuring students grasp the material.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bxilkf/comment/kydd0vp/"}}{\fldrslt \cf4 \strokec4 "My favorite CS professor was probably Professor Michmizos"\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1rm3qkd/comment/o8wx52z/"}}{\fldrslt \cf4 \strokec4 "Michmizos, at least for discrete 2. Lectures were amazing and he always made sure at least 90 percent of the class understood his lesson, by a show of hands."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Santosh Nagarakatte
+\f1\b0 : While technically the undergraduate director, he is highly recommended for his knowledge and helpfulness.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bxilkf/comment/kydgufc/"}}{\fldrslt \cf4 \strokec4 "Professor Santosh Nagarakatte. But he\'92s technically the undergraduate director of Computer Science."\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4hrnwt/"}}{\fldrslt \cf4 \strokec4 "Basically AVOID FRANNY THE \uc0\u55358 \u56609 \u55358 \u56609 !!! Good professors are Santosh Nagarette, Miranda Garcia, Lily Chang, and Cowan the \u55357 \u56336 "\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Miranda Garcia
+\f1\b0 : Good for specific courses like CS 336.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bxilkf/comment/kydd0vp/"}}{\fldrslt \cf4 \strokec4 "Also a shoutout to professor miranda garcia for cs 336."\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4iptdu/"}}{\fldrslt \cf4 \strokec4 "Miranda\'92s ratings on RMP aren\'92t the best. I\'92m registered for a class he\'92ll be teaching so its good to hear he\'92s good!"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Huang
+\f1\b0 : Appreciated for his teaching and approachability.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/tejyvj/comment/i0r3oqv/"}}{\fldrslt \cf4 \strokec4 "Huang teaches 211 sometimes and he's an awesome prof."\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4hu20f/"}}{\fldrslt \cf4 \strokec4 "Huang"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Mixed Reviews\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Menendez
+\f1\b0 : Some students find his teaching ineffective but appreciate the straightforward projects.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/tejyvj/comment/i0rfuqi/"}}{\fldrslt \cf4 \strokec4 "Menendez (he sucks at teaching but his projects are pretty straightforward)"\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/tejyvj/comment/i0ud1vb/"}}{\fldrslt \cf4 \strokec4 "Menny ain\'92t easy \uc0\u55357 \u56448 "\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Centeno
+\f1\b0 : Generally well-regarded for intro courses.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4mjd1w/"}}{\fldrslt \cf4 \strokec4 "I like Centano, Men\'e9ndez, Cowan, and Kremer"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Negative Experiences\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Franny
+\f1\b0 : Widely criticized for poor teaching and low effort.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/u2bock/comment/i4hrnwt/"}}{\fldrslt \cf4 \strokec4 "Basically AVOID FRANNY THE \uc0\u55358 \u56609 \u55358 \u56609 !!!"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls3\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Gale and Hamidi
+\f1\b0 : Often cited for making discrete math unnecessarily difficult.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1smrf3f/comment/oggnziw/"}}{\fldrslt \cf4 \strokec4 "Discrete math course are splitted to 2 semesters which is unnecessary, and they are taught by Gale and Hamidi..."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 General Insights\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Self-Learning
+\f1\b0 : Many students emphasize the importance of self-learning and seeking out additional resources.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bod56d/comment/kwo49a3/"}}{\fldrslt \cf4 \strokec4 "Rutgers - Cs is primarily self learning/self study"\cf5 \cb1 \strokec5 \uc0\u8232 }}\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bod56d/comment/kwo70do/"}}{\fldrslt \cf4 \strokec4 "If you succeed academically it\'92s literally because of you and you alone."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls4\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Career Fairs
+\f1\b0 : While career fairs can be helpful, they may not always lead to immediate job or internship offers.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1bod56d/comment/kwokhh1/"}}{\fldrslt \cf4 \strokec4 "As someone who has been back to Rutgers to work a table at the career fair for my company no matter how stacked your resume is for CS you won\'92t stand out at all, everyone has resumes like that now"}}\cb1 \
+}

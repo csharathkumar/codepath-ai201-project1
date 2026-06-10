@@ -1,0 +1,693 @@
+Course Synopses
+
+Contacts
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ulrich Kremer
+ 
+ 
+ 
+Information
+Departmental Chair
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Santosh Nagarakatte
+ 
+ 
+ 
+Information
+Undergraduate Program Director
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Undergraduate Menu
+ 
+
+Why Computer Science
+Prospective Students
+Transfer Students
+Pre-Evaluated Transfer Courses
+Learning Goals
+Major - BA Degree
+Major - BS Degree
+Minor(s)
+Courses Schedule
+Course Synopses
+Advising
+Electives
+Honors
+Academic Integrity Policy
+Introduction
+Examinations
+Programming Assignments
+Introductory Computer Science Offerings
+Computer Science Course Structure
+Admission to the Major
+Computer Science Undergraduate Program Tracks
+CS Degrees
+B.A. Degree
+Sample BA Schedule
+B.S. Degree
+Sample BS Schedule
+Minor in CS
+CS Honors Program
+Undergraduate Student Organizations
+Course Registration and Special Permission
+
+Undergraduate Quicklinks
+ 
+
+Academic Calendar
+
+Course Schedule Planner
+
+SAS Academic Advising
+
+SAS Core Curriculum
+
+University Schedule of Classes
+
+Web Registration System
+
+ 
+
+Course Synopses
+
+Please note that the "Semester(s) Offered" entry does not guarantee that the course will always be offered in that semester. Please consult the online 
+Schedule of Courses
+ to verify whether a course will be offered in an upcoming semester.
+ 
+
+Search
+
+Clear
+
+Core Curriculum: 
+
+All
+
+AH
+
+AHo
+
+AHp
+
+AHq
+
+AHr
+
+CCD
+
+CCO
+
+HST
+
+NS
+
+QQ
+
+QR
+
+SCL
+
+WC
+
+WCd
+
+WCr
+
+Title
+
+Semester(s) Offered
+
+Credits
+
+Core Curriculum
+
+01:198:103 - Introduction to Computer Skills
+ 
+
+Spring
+ 
+
+1
+ 
+
+ 
+
+01:198:105 - Great Insights in Computer Science
+ 
+
+Fall, Spring
+ 
+
+3
+ 
+
+QR
+ 
+
+01:198:107 - Computing for Math and the Sciences
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+QR
+ 
+
+01:198:110 - Principles of Computer Science
+ 
+
+Fall, Spring
+ 
+
+3
+ 
+
+QR
+ 
+
+01:198:111 - Introduction to Computer Science
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+QQ, QR
+ 
+
+01:198:112 - Data Structures
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:142 - Data 101: Data Literacy
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+CCO, QQ, QR
+ 
+
+01:198:143 - Data 101: Data Literacy - Hybrid Version*
+ 
+
+Fall, Spring, Summer, Winter
+ 
+
+3
+ 
+
+CCO, QQ, QR
+ 
+
+01:198:170 - Computer Application for Business
+ 
+
+Fall, Spring, Summer
+ 
+
+3
+ 
+
+QR
+ 
+
+01:198:195 - Honors Seminar in Computer Science
+ 
+
+Spring
+ 
+
+1
+ 
+
+ 
+
+01:198:205 - Introduction to Discrete Structures I
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:206 - Introduction to Discrete Structures II
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:210 Data management for Data Science
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:211 - Computer Architecture
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:213 - Software Methodology
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:214 - Systems Programming
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:310 Data Science Capstone Project
+ 
+
+Fall, Spring
+ 
+
+1
+ 
+
+ 
+
+01:198:314 - Principles of Programming Languages
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:323 - Numerical Analysis and Computing
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:324 - Numerical Methods
+ 
+
+Fall, Spring, Summer, Winter
+ 
+
+4
+ 
+
+ 
+
+01:198:334 - Introduction to Imaging and Multimedia
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:336 - Principles of Information and Data Management
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:344 - Design and Analysis of Computer Algorithms
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:345 Algorithms in Society
+ 
+
+Fall, Spring, Winter
+ 
+
+4
+ 
+
+ 
+
+01:198:352 - Internet Technology
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:405 - Seminar in Computers and Society
+ 
+
+Fall, Spring
+ 
+
+3
+ 
+
+CCO, WCd
+ 
+
+01:198:411 - Computer Architecture II
+ 
+
+4
+ 
+
+01:198:415 - Compilers
+ 
+
+Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:416 - Operating Systems Design
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:417 - Distributed Systems: Concepts and Design
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:419 - Computer Security
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:424 - Modeling and Simulation of Continuous Systems
+ 
+
+Fall, Spring, Summer, Winter
+ 
+
+4
+ 
+
+ 
+
+01:198:425 - Brain-Inspired Computing
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:428 - Introduction to Computer Graphics
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:431 - Software Engineering
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:437 - Database Systems Implementation
+ 
+
+Fall
+ 
+
+4
+ 
+
+ 
+
+01:198:439 - Introduction to Data Science
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:440 - Introduction to Artificial Intelligence
+ 
+
+Fall, Spring, Summer
+ 
+
+4
+ 
+
+ 
+
+01:198:442 - Topics in Computer Science
+ 
+
+Spring, Winter
+ 
+
+4
+ 
+
+ 
+
+01:198:443 - Topics in Computer Science
+ 
+
+Fall, Spring, Summer
+ 
+
+3
+ 
+
+ 
+
+01:198:444-Topics in Computer Science
+ 
+
+Spring
+ 
+
+3
+ 
+
+ 
+
+01:198:445 - Topics in Computer Science
+ 
+
+Fall, Spring
+ 
+
+3
+ 
+
+ 
+
+01:198:452 - Formal Languages and Automata
+ 
+
+Fall, Spring
+ 
+
+3
+ 
+
+ 
+
+01:198:460 - Introduction to Computational Robotics
+ 
+
+Fall
+ 
+
+4
+ 
+
+ 
+
+01:198:461 Machine Learning Principles
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:462 Introduction to Deep Learning
+ 
+
+Fall, Spring
+ 
+
+4
+ 
+
+ 
+
+01:198:493 - Independent Study in Computer Science
+ 
+
+Fall, Summer
+ 
+
+By arrangement
+ 
+
+ 
+
+01:198:494 - Independent Study in Computer Science
+ 
+
+Spring
+ 
+
+By arrangement
+ 
+
+ 
+
+01:198:495 Honors Capstone 1
+ 
+
+Fall
+ 
+
+3
+ 
+
+ 
+
+Article
+
+Close

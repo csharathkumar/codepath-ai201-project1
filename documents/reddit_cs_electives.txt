@@ -1,0 +1,200 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red39\green46\blue51;\red255\green255\blue255;\red12\green48\blue137;
+\red74\green89\blue97;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c23922\c25882;\cssrgb\c100000\c100000\c100000;\cssrgb\c3922\c26667\c60784;
+\cssrgb\c36078\c42353\c45490;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid2\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid102\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid202\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid302\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid402\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Machine Learning and AI Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Intro to AI (CS440)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Covers how to program a computer to make logical and consistent decisions using various algorithms and data traversal techniques.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odn78af/"}}{\fldrslt \cf4 \strokec4 "I\'92m taking 440 right now and it\'92s sort of just how to program a computer to make logical and consistent decisions given random data."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Difficulty and Utility
+\f1\b0 : Extremely project-heavy but provides a deep understanding of AI.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/comment/drsrx9k/"}}{\fldrslt \cf4 \strokec4 "Intro to AI needs to be taken with Bekris. Extremely project heavy but you will have a very good understanding of how AI works."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professor Recommendation
+\f1\b0 : Take with Professor Bekris for the best experience.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/comment/drsqkvh/"}}{\fldrslt \cf4 \strokec4 "Intro to AI I heard was extremely fun but hard af, but you can gain alot of knowledge of ML, algorithms and have some projects to put on your resume."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Intro to Machine Learning (CS461)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Covers a broader range of topics beyond neural networks, including transformers and text LLMs.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odpp6u5/"}}{\fldrslt \cf4 \strokec4 "AI goes into neural networks and then stops. If you want beyond that, you should take machine learning as that covers beyond that to transformers and text llms."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Practical Application
+\f1\b0 : Includes building models for predictive tasks.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odpp6u5/"}}{\fldrslt \cf4 \strokec4 "My final project was to create a model that could predict whether a news article title was a real one or like an Onion article title."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Intro to Deep Learning (CS462)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls1\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Focuses on higher-level concepts from Machine Learning.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odpp6u5/"}}{\fldrslt \cf4 \strokec4 "I have not taken Deep Learning, but it seems to cover just the higher stuff from Machine Learning."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Systems and Lower-Level Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Systems Programming (CS214)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls2\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Reviews essentials of systems programming in C, with an emphasis on Linux usage, synchronization primitives, multithreading, and C memory management.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/open_to_suggestionsedits_useful_rutgers_cs/"}}{\fldrslt \cf4 \strokec4 "Reviews essentials of systems programming in C. Overview of C programming concepts at greater depth than with CS211 (Computer Architecture)."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professional Use
+\f1\b0 : Provides a strong base for working in a Linux environment and entry-level systems programming.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/open_to_suggestionsedits_useful_rutgers_cs/"}}{\fldrslt \cf4 \strokec4 "For working in a Linux environment in future CS electives or in the real world, this class provides a strong base to work off of."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Internet Technology (CS352)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls2\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Learn about TCP/UDP and how the internet works at a lower level.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/comment/drsrx9k/"}}{\fldrslt \cf4 \strokec4 "You learn about TCP/UDP and how the internet works."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Practical Use
+\f1\b0 : Exposure to C and sockets can be very useful for building network applications.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/cbi7mo/comment/etfxmr3/"}}{\fldrslt \cf4 \strokec4 "Most useful though was that class's exposure to C and sockets."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Data Management and Software Development Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Principles of Data Management (CS336)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls3\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Covers ER diagrams, SQL queries, and functional dependencies.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1pxc918/comment/nwa5blp/"}}{\fldrslt \cf4 \strokec4 "Topics are pretty easy overall: ER diagrams, SQL queries, and functional dependencies."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls3\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professional Use
+\f1\b0 : Knowing SQL is highly useful in many data-related roles.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j2wvoc/comment/mfykkuz/"}}{\fldrslt \cf4 \strokec4 "I would recommend taking 336 prin of data mgmt bc knowing sql is useful and the project will teach you a lot."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Software Methodology (CS213)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls3\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Deep dives into other aspects of Java and builds multiple projects throughout the semester.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/cbi7mo/graduated_cs_heres_my_top_3_rutgers_courses_that/"}}{\fldrslt \cf4 \strokec4 "This class is essentially deep diving into all the other aspects of Java you haven't learned yet."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls3\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professional Use
+\f1\b0 : Covers Git, teamwork, and architectural best practices.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/cbi7mo/comment/etfxmr3/"}}{\fldrslt \cf4 \strokec4 "A lot of this coursework is straight up applicable to a job-work. Git, teamwork, some architectural best practices."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Easier and Fun Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Minds, Machines, and Persons (MMP)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls4\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : A philosophical take on AI and consciousness.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/18ovmyq/comment/kemm28f/"}}{\fldrslt \cf4 \strokec4 "Minds, Machines, and Persons is a fun one that can be used as an elective for CS."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls4\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Difficulty
+\f1\b0 : Relatively easy with a focus on papers rather than exams.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/7m9y9i/comment/drss1ym/"}}{\fldrslt \cf4 \strokec4 "Minds, machines, and persons with rabinowitz is an easy A provided you start the papers ahead of time."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Intro to Data Science (CS210)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls4\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Learn how to apply Python to help you sort data.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j2wvoc/comment/mfykkuz/"}}{\fldrslt \cf4 \strokec4 "210 if u want to learn how to apply python to help you sort data."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls4\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Difficulty
+\f1\b0 : Straightforward and can be a GPA booster.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1hp4w2i/cs_electives_that_are_actually_fun_and_useful/"}}{\fldrslt \cf4 \strokec4 "198:210 data management for ds \'96 supposed to be an easy GPA booster."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 More Challenging but Rewarding Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Computer Security (CS345)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls5\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Explores principles of security and how to apply them.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/cbi7mo/comment/etfxmr3/"}}{\fldrslt \cf4 \strokec4 "More applicable, though, are the principles of security and how to apply them."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls5\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Professional Use
+\f1\b0 : Essential for understanding and building secure software.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/cbi7mo/comment/etfxmr3/"}}{\fldrslt \cf4 \strokec4 "No enterprise will want insecure software."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Formal Languages and Automata (CS350)
+\f1\b0 :\cb1 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\partightenfactor0
+\ls5\ilvl1
+\f0\b \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Overview
+\f1\b0 : Covers theoretical computer science concepts.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1j8i8d5/comment/mh5iszw/"}}{\fldrslt \cf4 \strokec4 "Formal lang and automata. We goin grad school."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls5\ilvl1
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u9702 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Academic Use
+\f1\b0 : Useful for those interested in academia and theoretical computer science.\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Tips for Choosing Electives\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls6\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Consider Your Goals
+\f1\b0 : Your career interests should guide your elective choices.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odn78af/"}}{\fldrslt \cf4 \strokec4 "Depends on your goals."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls6\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Check Syllabi
+\f1\b0 : Review the topics and assignments for each course.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s97rqt/comment/odn78af/"}}{\fldrslt \cf4 \strokec4 "I would look at the syllabus for each of them review the topics and then see which one matches most with what you\'92re interested in."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls6\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Read Professor Reviews
+\f1\b0 : A good professor can make a difficult class more manageable.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1hp4w2i/comment/m4ezx3c/"}}{\fldrslt \cf4 \strokec4 "What\'92s professor would you recommend for 352?"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls6\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Balance Difficulty
+\f1\b0 : Mix easy and hard electives to manage your GPA and workload.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1991tq0/comment/kiclqvk/"}}{\fldrslt \cf4 \strokec4 "If Python and ML are what interest you, take CS 210 and CS 439. Both those classes are relatively straightforward."}}\cb1 \
+}

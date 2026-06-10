@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red39\green46\blue51;\red255\green255\blue255;\red12\green48\blue137;
+\red74\green89\blue97;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c23922\c25882;\cssrgb\c100000\c100000\c100000;\cssrgb\c3922\c26667\c60784;
+\cssrgb\c36078\c42353\c45490;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 General Tips for CS112 and CS213\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Start Assignments Early
+\f1\b0 : Many students emphasize the importance of starting assignments early to avoid rushing and ensure a thorough understanding.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/eeount/comment/fbvay7b/"}}{\fldrslt \cf4 \strokec4 "Start the projects early, study the problem sets like crazy, look over past exams, make sure you really understand the material."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Understand the Material
+\f1\b0 : Focus on understanding the concepts rather than just memorizing.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/4jymmo/comment/d3coi91/"}}{\fldrslt \cf4 \strokec4 "This course is more about understanding concepts rather than memorizing."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls1\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Use Resources
+\f1\b0 : Attend lectures and recitations, go to office hours, and utilize tutoring services like RU CATS.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/eeount/comment/fbzbf8k/"}}{\fldrslt \cf4 \strokec4 "Go to Sesh\'92s lectures, and Rishab\'92s recitation (if he is a LA next semester). There is also walk in tutoring available."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Specific Advice for CS112\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Practice Coding
+\f1\b0 : Regularly practice implementing data structures from scratch.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1cpiz3z/comment/l3lrhmd/"}}{\fldrslt \cf4 \strokec4 "Program everything you get taught from scratch."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Review Problem Sets
+\f1\b0 : The questions in exams are often similar to those discussed in recitations and problem sets.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/pb2g0t/comment/ha9696y/"}}{\fldrslt \cf4 \strokec4 "In my experience, questions asked in exams were similar to the ones discussed in recitation."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls2\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Use Sesh\'92s YouTube Channel
+\f1\b0 : Sesh Venugopal\'92s YouTube videos are highly recommended for understanding complex topics.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/eeount/comment/fbws193/"}}{\fldrslt \cf4 \strokec4 "Sesh\'92s videos on YouTube are super helpful."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Tips for CS213\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Manage Expectations
+\f1\b0 : Be aware that the course can be challenging due to the professor\'92s style.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1s841cn/comment/ode6yfn/"}}{\fldrslt \cf4 \strokec4 "Just know you aren't alone. I have seen a single person like sesh in recent years."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls3\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Seek Help
+\f1\b0 : If you\'92re struggling, don\'92t hesitate to ask for help from TAs or fellow students.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/da62rh/comment/f1nv7st/"}}{\fldrslt \cf4 \strokec4 "I can also help out. Upperclassman here who is almost done with the comp sci track."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Summer Session Advice\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Be Prepared for Intensity
+\f1\b0 : Taking data structures in the summer means the material is crammed into a shorter period.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1cpiz3z/comment/l3lrhmd/"}}{\fldrslt \cf4 \strokec4 "The material is crammed because you have less time than normal semesters."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls4\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Consider Waiting
+\f1\b0 : Some students recommend waiting until the fall if you find the course particularly difficult.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1799mxi/comment/k56iyke/"}}{\fldrslt \cf4 \strokec4 "I took it over the summer and I would recommend waiting until the fall :)"\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\pard\pardeftab720\sa120\partightenfactor0
+
+\f0\b \cf2 \cb3 Additional Resources\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls5\ilvl0\cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 GitHub Repository
+\f1\b0 : Explore the GitHub repository for practice problems.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/pb2g0t/comment/haa9wki/"}}{\fldrslt \cf4 \strokec4 "This GitHub Repository created and maintained by u/Likey_00 contains an assortment of well written and curated practice problems for each topic in the course."\cf5 \cb1 \strokec5 \uc0\u8232 }}\cb1 \
+\ls5\ilvl0
+\f0\b \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Official Course Websites
+\f1\b0 : Utilize the lecture objective videos and slides available on the course websites.\'a0{\field{\*\fldinst{HYPERLINK "https://www.reddit.com/r/rutgers/comments/1dvzujs/comment/lbr30kp/"}}{\fldrslt \cf4 \strokec4 "The websites for both courses contain lecture objective videos and slides."}}\cb1 \
+}
